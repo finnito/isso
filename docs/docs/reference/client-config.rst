@@ -21,7 +21,7 @@ preferably in the script tag which embeds the JS:
             data-isso-vote-levels=""
             data-isso-page-author-hashes="f124cf6b2f01,7831fe17a8cd"
             data-isso-reply-notifications-default-enabled="false"
-            src="/prefix/js/embed.js"></script>
+            src="/prefix/js/embed.min.js"></script>
 
 Furthermore you can override the automatic title detection inside
 the embed tag, as well as the thread ID, e.g.:
